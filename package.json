@@ -1,0 +1,24 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "dependencies": {
+    "webpack": "^3.3.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "moment": "^2.18.1",
+    "vue": "^2.4.2",
+    "vue-loader": "^13.0.2",
+    "vue-router": "^2.7.0",
+    "vue-template-compiler": "^2.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
